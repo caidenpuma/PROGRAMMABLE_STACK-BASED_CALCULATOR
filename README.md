@@ -1,4 +1,4 @@
-# Stack-Based Calculator (Postfix Calculator)
+# PROGRAMMABLE STACK-BASED CALCULATOR
 
 ## Overview
 
